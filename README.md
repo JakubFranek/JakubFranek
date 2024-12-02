@@ -1,6 +1,6 @@
 ## Hi, my name is Jakub 👋
 
-I am an analog design integrated circuit designer by trade, but in my free time, I like to write software or tinker with microcontrollers and electronic hardware.
+I am an analog integrated circuit designer during the office hours, but in my free time, I like to code software or tinker with microcontrollers and electronic hardware.
 
 - 🔭 I’m currently working on [Home Air Monitoring System](https://github.com/JakubFranek/Home-Air-Monitoring-System)
 - 🌱 I’m currently learning [STM32](https://github.com/JakubFranek/STM32) and [ESP32](https://github.com/JakubFranek/ESP32) microcontroller platforms
