@@ -3,9 +3,9 @@
 I am an analog integrated circuit designer during the office hours, but in my free time, I like to code software or tinker with microcontrollers and electronic hardware.
 
 - 🔭 I’m currently working on [Home Air Monitoring System](https://github.com/JakubFranek/Home-Air-Monitoring-System)
-- 🌱 I’m currently learning [STM32](https://github.com/JakubFranek/STM32) and [ESP32](https://github.com/JakubFranek/ESP32) microcontroller platforms
+- 🌱 I’m currently learning digital design within my [Nexys A7 lab](https://github.com/JakubFranek/Nexys-A7-Lab) repository
 - ⚡ My proudest coding achievement is [Kapytal](https://github.com/JakubFranek/Kapytal) - a personal finance management desktop app for Windows
-- 💬 My favourite language is Python, but I program my microcontrollers in C or C++
+- 💬 My favourite language is Python, but I program microcontrollers in C or C++ and FPGAs in VHDL
 - 📫 Reach me on my personal e-email j.franek95@gmail.com
 - :newspaper: Add me on [LinkedIn](https://www.linkedin.com/in/jakub-franek-electronic-design/) 
 
